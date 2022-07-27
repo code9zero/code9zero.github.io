@@ -1,3 +1,9 @@
+# My private static webpage
+
+I migrated from my self-managed hosting to GitHub Pages for convenience reasons.
+Below you find the original readme text from HTML5 UP.
+
+
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
